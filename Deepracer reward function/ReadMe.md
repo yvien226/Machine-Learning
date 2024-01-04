@@ -1,6 +1,6 @@
 # AWS DeepRacer reward functions
 
-AWS DeepRacer is a fully autonomous 1/18th scale race car driven by reinforcement learning.
+AWS DeepRacer is a fully autonomous 1/18th scale self driving race car driven by reinforcement learning. Users train their DeepRacer models in the AWS service environment and deployed onto the physical DeepRacer car to compete in races autonomously, learning how to navigate tracks efficiently while avoiding obstacles.
 
 In 2022, I won the Deepracer competition (physical track) during the company's internal event and came 2nd in the Australia & New Zealand competition (virtual). This qualified me for the 2022 AWS Re:Invent DeepRacer World Championship, where I eventually placed 15th out of 50 participants. Below are the reward functions that I used during the competitions:
 
